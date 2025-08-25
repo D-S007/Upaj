@@ -33,7 +33,7 @@ Conventional agricultural practices in India are increasingly unsustainable due 
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/d-s007/Upaj.git](https://github.com/d-s007/Upaj.git)
+    git clone https://github.com/d-s007/Upaj.git
     cd Upaj
     ```
 
